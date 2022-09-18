@@ -8,14 +8,12 @@ permalink: /committee/
 
 The Steering Committee is responsible for [guiding the future direction](https://nime.gitbook.io/conference-cookbok/steering/steeringcommittee) of the NIME conference. It is composed of previous, current and  future NIME conference chairs, currently:
 
-* [Alexander Refsum Jensenius](http://www.arj.no), University of Oslo (Chair of SC, Chair NIME 2011)
+* [Fabio Morreale](https://profiles.auckland.ac.nz/f-morreale), Waipapa Taumata Rau, The University of Auckland (Chair of SC, Chair NIME 2022)
 * [Ico Bukvic](http://imi.aau.dk/~sts/), Virginia Tech (Chair NIME 2018)
-* [Rodrigo Schramm](http://professor.ufrgs.br/rschramm), Federal University of Rio Grande do Sul (Chair NIME 2019)
 * [Lamberto Coccioli](https://www.bcu.ac.uk/conservatoire/research/research-staff/lamberto-coccioli), Royal Birmingham Conservatoire (Chair NIME 2020)
 * [Sally-Jane Norman](https://people.wgtn.ac.nz/sallyjane.norman), Victoria University of Wellington (Chair NIME 2020)
-* [Gus Xia](https://shanghai.nyu.edu/academics/faculty/directory/gus-xia), NYU Shanghai (Chair NIME 2021)
-* [Margaret Minsky](https://shanghai.nyu.edu/academics/faculty/directory/margaret-minsky), NYU Shanghai (Chair NIME 2021)
-
+* [Hugo Solís](http://hugosolis.net/en) (Chair NIME 2023)
+* [Eric Pérez Segura](https://mx.linkedin.com/in/eric-p%C3%A9rez-segura-358b919b) (Chair NIME 2023)
 
 ## NIME Officers
 
@@ -34,7 +32,10 @@ The NIME Officers are responsible for the keeping the ongoing aspects of the org
 	- [Balandino Di Donato](https://www.balandinodidonato.com/)
 * Music proceedings archive officer:
 	- [Federico Visi](https://www.federicovisi.com/)
-* Ethics officer:
+* Ethics officers:
+	- [Nicolas Gold](http://www0.cs.ucl.ac.uk/staff/N.Gold/) (chair)
+	- Raul Masu
+	- [Cecile Chevalier](https://profiles.sussex.ac.uk/p235751-cecile-chevalier)
 	- [Fabio Morreale](https://www.creative.auckland.ac.nz/people/profile/f-morreale)
 * Forum officer:
 	- [S. Astrid Bin](https://www.astridbin.com/)
@@ -50,7 +51,7 @@ The NIME Officers are responsible for the keeping the ongoing aspects of the org
 ## Advisory Board
 
 The Advisory Board consists of former chairs, and serve as support for the Steering Committee:
-
+* [Alexander Refsum Jensenius](http://www.arj.no), University of Oslo (Chair NIME 2011)
 * [Michael Lyons](https://www.linkedin.com/in/michaeljlyons), Ritsumeikan University, Kyoto (Chair NIME 2004)
 * [Sidney Fels](https://www.ece.ubc.ca/~ssfels/), University of British Columbia (Chair NIME 2005)
 * [Norbert Schnell](http://ismm.ircam.fr/norbert-schnell/), IRCAM (Chair NIME 2006)
