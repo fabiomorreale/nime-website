@@ -30,7 +30,7 @@ The conference began as a workshop at the ACM Conference on Human Factors in Com
 *   [NIME 2019](https://www.ufrgs.br/nime2019/): Porto Alegre, Brazil
 *   [NIME 2020](https://nime2020.bcu.ac.uk/): Birmingham, UK
 *   [NIME 2021](http://nime2021.org/): Shanghai, China
-* NIME 2022: Auckland, New Zealand
+*   [NIME 2022](http://nime2022.org/): Auckland, Aoteaora (New Zealand)
 
 {% include video.html id="JnLylwvWIpE" %}
 
@@ -84,6 +84,7 @@ This list only contains the general chairs for the NIME conferences. Each year t
 * 2019: (Porto Alegre) Marcelo M. Wanderley, Eduardo Reck Miranda, Ana María Romano Gomez
 * 2020: (Birmingham) Drake Music Labs, Lilja Maria Asmundsdottir, Crewdson & Cevanne, Dunning & Underwood
 * 2021: (Shanghai) Roger Dannenberg, Yann LeCun, AnnMarie Thomas
+* 2022: (Auckland) Khyam Allami, Hundred Rabbits, Sally Jane Norman
 
 ## Awards
 
@@ -97,3 +98,4 @@ This award recognizes a person who is doing significant work that improves the d
 * 2020: [Doga Cavdir](http://wonomute.no/blog/pamela-z-award-for-innovation-nime-2020/) |
 *Honorary Mention: [Patricia Cadavid Hinojosa](http://wonomute.no/blog/pamela-z-award-for-innovation-nime-2020/)*
 * 2021: João Tragtenberg | *Honorary Mention: Abby Aresty*
+* 2022: Laurel Pardue and [Astrid Bin](https://www.astridbin.com/)
